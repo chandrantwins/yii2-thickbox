@@ -1,0 +1,28 @@
+{    
+    "name": "chandrantwins/yii2-thickbox",
+    "type": "yii2-extension",
+    "description": "Thickbox wrapper for the Yii framework",
+    "keywords": ["yii2", "thickbox", "iframe", "inline", "gallery", "video", "flash"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/chandrantwins/yii2-thickbox/issues",
+        "forum":  "http://www.yiiframework.com/forum/",
+        "wiki":   "http://www.yiiframework.com/wiki/",        
+        "source": "https://github.com/chandrantwins/yii2-thickbox"
+    },
+    "authors": [
+        {
+            "name": "Chandran Nepolean",
+            "email": "chandrantwins@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/thickbox": "v3.1"
+    },    
+    "autoload": {
+        "psr-4": {
+            "chandran\\widgets\\": ""
+        }
+    }
+}
