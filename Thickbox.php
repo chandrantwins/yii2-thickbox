@@ -22,7 +22,7 @@ use yii\base\Widget;
  * ]);
  *
  *
- * @author Chandran Nepolean
+ * @author Chandran Nepolean (Twins)
  * @see http://codylindley.com/thickbox/
  * @package chandran\widgets\thickbox
  */
