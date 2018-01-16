@@ -2,7 +2,7 @@
     "name": "chandrantwins/yii2-thickbox",
     "type": "yii2-extension",
     "description": "Thickbox wrapper for the Yii framework",
-    "keywords": ["yii2", "thickbox", "iframe", "inline", "gallery", "video", "flash"],
+    "keywords": ["yii2", "thickbox", "iframe", "inline", "gallery", "video", "flash","extensiona"],
     "license": "MIT",
     "support": {
         "issues": "https://github.com/chandrantwins/yii2-thickbox/issues",
